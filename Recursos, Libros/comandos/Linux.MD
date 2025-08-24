@@ -63,11 +63,11 @@ chmod u+s         # SUID
             |--bin  (binarios esenciales)
       /etc--|
             |--/toc (configuraciones)
-      /home--|
+     /home--|
             |--mnt (contiene los usuarios)
       /mnt--|
             |--/opt (programas opcionales)
-      /rm--|
+       /rm--|
             |--/srv (servicios del sistema)
       /lib--|
             |--/tmp (arranque del sistema)
